@@ -1,2 +1,2 @@
 # experiments
-experiments about images and fourier tranform
+experiments about various real world mathematical and AI models 
